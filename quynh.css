@@ -1,0 +1,137 @@
+.{
+	padding: 0px;
+	margin: 20px auto;
+}
+body
+{
+	font-size: 12px;
+	width: auto;
+	height: auto;
+
+}
+li{
+	list-style-type: none;
+}
+#wrapper{
+	width:1300px;
+	margin: auto;
+	position: relative;
+}
+#logo{
+	width: 1000px;
+	margin: auto;
+	height: 80px;
+	background-color: green;
+
+}
+#menu{
+	width: 1000px;
+	margin: auto;
+	height: 70px;
+	margin-top: 5px;
+}
+#menu ul{
+	text-align: center;
+	line-height: 40px;
+}
+#menu ul li.mot{
+	width: 280px;
+	float: left;
+	height: 40px;
+	background-color: #F4A460;
+	margin-left: 30px;
+}
+#menu ul li.hai{
+	width: 280px;
+	float: left;
+	height: 40px;
+	margin-left: 10px;
+	margin-right: 10px;
+	background-color: yellow;
+}
+#menu ul li.ba{
+	width: 280px;
+	float: left;
+	height: 40px;
+	background-color: orange;
+
+}
+#banner{
+	width: 1000px;
+	margin: auto;
+	height: 90px;
+	background-color: #0066FF;
+}
+#main{
+	width: 1000px;
+	margin: auto;
+	height: 500px;
+	margin-top: 15px;
+	margin-bottom: 30px;
+}
+#left{
+	float: left;
+    width: 360px;
+    height: 500px;
+    margin-right: 20px;
+
+}
+.top{
+	width: 360px;
+	height: 240px;
+	background-color:#663366;
+	margin-bottom: 20px;
+}
+.bottom{
+	width:360px;
+	height: 240px;
+	background-color: #FF2288;
+}
+#right{
+	float: right;
+    width: 600px;
+    height: 500px;
+    background: #FFFF99;
+}
+#icon{
+	width: 1000px;
+	margin: auto;
+	height: 60px;
+	background-color: #34FF67;
+}
+#ot{
+	width: 1000px;
+	margin: auto;
+	height: 400px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+
+}
+.b1{
+	width: 320px;
+	float: left;
+	height: 400px;
+	background-color:  #FFCC99;
+}
+.b2{
+	width: 320px;
+	float: left;
+	height: 400px;
+	margin-left: 20px;
+	margin-right: 20px;
+	background-color: #6702FF;
+}
+.b3{
+	width: 320px;
+	float: left;
+	height: 400px;
+	background-color:  #FF0001;
+	float: right;
+
+}
+#thongtin{
+	width: 1000px;
+	margin: auto;
+	height: 70px;
+	background-color:  #9988FF ;
+}
